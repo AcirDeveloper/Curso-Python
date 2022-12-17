@@ -18,3 +18,7 @@ if numero1 < numero2:
     print("numero1 es mayor que numero2")
 else:
     print("numero1 es menor que numero2")
+
+/** 
+Comentarios
+*/
